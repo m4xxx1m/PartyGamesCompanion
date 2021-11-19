@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Имя</string>
+    <string name="start_money">Стартовый капитал</string>
+    <string name="add_players">Добавьте игроков</string>
+    <string name="only_10_players">Максимум 10 игроков</string>
+    <string name="check_entered_data">Ошибка! Проверьте правильность ввода данных</string>
+</resources>

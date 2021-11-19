@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/addPlayersFragment">
+
+    <fragment
+        android:id="@+id/addPlayersFragment"
+        android:name="ru.maximivanov.projects.partygamescompanion.fragments.AddPlayersFragment"
+        android:label="fragment_add_players"
+        tools:layout="@layout/fragment_add_players" />
+</navigation>
